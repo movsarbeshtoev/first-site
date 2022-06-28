@@ -1,0 +1,224 @@
+.Raleway {
+  font-family: "Raleway", sans-serif;
+}
+.ibm {
+  font-family: "IBM Plex Mono", monospace;
+}
+
+.head {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 700px;
+  background-color: #080808;
+}
+.head a {
+  color: #9c9c9c;
+  text-decoration: none;
+}
+.head a:hover {
+  text-decoration: underline;
+  color: #fff;
+}
+.numbar-links {
+  display: flex;
+  justify-content: center;
+}
+.numbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 24px;
+  padding-left: 95px;
+  padding-right: 95px;
+  padding-bottom: 28px;
+  background-color: #1b1b1b;
+}
+
+.links a {
+  height: 18px;
+}
+.center-link {
+  margin-left: 70px;
+}
+
+.namber-icon {
+  margin-left: 95px;
+}
+.namber-icon a {
+  margin-right: 25px;
+}
+.bloc {
+  margin-left: 180px;
+  margin-right: 180px;
+}
+
+.text-btn {
+  display: flex;
+  flex-direction: column;
+}
+.btn button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 308px;
+  height: 63px;
+  box-shadow: 0px 8px 30px rgba(63, 142, 0, 0.5);
+  background: #3f8e00;
+  border: 1px solid #62ba1b;
+  border-radius: 4px;
+  color: #fff;
+}
+.btn button:hover {
+  background: #62ba1b;
+}
+.btn svg {
+  margin-left: 10px;
+}
+.text-btn-img {
+  display: flex;
+  justify-content: space-between;
+}
+.text-btn-img img {
+  border-radius: 100%;
+}
+.text-btn h1 {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  font-size: 44px;
+}
+.text-btn p {
+  color: #fff;
+}
+.h1-p {
+  display: flex;
+  flex-direction: column;
+}
+.btn {
+  padding-top: 30px;
+}
+
+.worked {
+  color: #fff;
+}
+.but {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.battons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 160px;
+  height: 60px;
+  border-radius: 6px;
+  border: 1px solid #1b1b1b;
+}
+.head2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.CaseStudies {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.CaseStudies h2 {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 34px;
+  line-height: 40px;
+}
+.CaseStudies_text {
+  width: 570px;
+
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+
+  text-align: center;
+  letter-spacing: 0.01em;
+
+  color: #9c9c9c;
+}
+.Fintech_mini {
+  width: 72px;
+  height: 24px;
+  left: 0px;
+  top: 27px;
+  background: #fff6e9;
+  border-radius: 60px;
+}
+.Fintech_mini p {
+  width: 52px;
+  height: 24px;
+
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 24px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.01em;
+  color: #ffa217;
+}
+.Fintech h4 {
+  width: 52px;
+  height: 24px;
+
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 24px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.01em;
+
+  color: #ffa217;
+}
+.Fintech_text_img {
+  display: flex;
+}
+.Fintech_text {
+  display: flex;
+  flex-direction: column;
+}
+.text2 p {
+  margin-right: 20px;
+  width: 421px;
+  height: 96px;
+
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+
+  letter-spacing: 0.01em;
+
+  color: #9c9c9c;
+}
+.Fintech_img {
+  border-radius: 4px;
+}
+.Fintech_button button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 24px;
+  gap: 10px;
+
+  background: #ffa217;
+  box-shadow: 0px 8px 30px rgba(42, 176, 144, 0.1);
+  border-radius: 4px;
+  border: none;
+}
